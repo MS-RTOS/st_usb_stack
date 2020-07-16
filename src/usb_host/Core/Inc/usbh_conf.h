@@ -6,7 +6,7 @@
  *
  * File: usbh_conf.h ST usb host stack configuration and porting.
  *
- * Author: Jiao.jinxing <jiaojixing@acoinfo.com>
+ * Author: Jiao.jinxing <jiaojinxing@acoinfo.com>
  *
  */
 

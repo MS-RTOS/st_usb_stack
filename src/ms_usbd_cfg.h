@@ -6,7 +6,7 @@
  *
  * File: ms_usbd_conf.h ST usb device stack configuration.
  *
- * Author: Jiao.jinxing <jiaojixing@acoinfo.com>
+ * Author: Jiao.jinxing <jiaojinxing@acoinfo.com>
  *
  */
 

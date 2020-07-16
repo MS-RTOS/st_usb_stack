@@ -6,7 +6,7 @@
  *
  * File: usbd_conf.h ST usb device stack configuration and porting.
  *
- * Author: Jiao.jinxing <jiaojixing@acoinfo.com>
+ * Author: Jiao.jinxing <jiaojinxing@acoinfo.com>
  *
  */
 
